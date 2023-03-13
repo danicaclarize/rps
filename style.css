@@ -1,0 +1,11 @@
+body {
+    margin:0 auto; /*margin:0 auto; - "centres everything*/
+    margin-top:40px; /*workout the values*/
+    padding:20px; /*margin:0 auto; - "centres everything*/
+    border:10px solid red;
+    width: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+
+}
